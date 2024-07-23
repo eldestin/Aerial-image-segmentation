@@ -2,7 +2,10 @@
 This is the repository of our project: Aerial image segmentation.
 
 Current models are the reproduction based on:
-1. ![XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)
+1. [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)
+2. [UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://arxiv.org/abs/2109.08937)
+3. [AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation](https://arxiv.org/abs/2306.06842)
+4. [RSSFormer: Foreground Saliency Enhancement for Remote Sensing Land-Cover Segmentation](https://ieeexplore.ieee.org/abstract/document/10026298)
 ## Dependencies
 ```
 pip install -r requirements.txt
