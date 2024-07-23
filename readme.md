@@ -1,5 +1,8 @@
 # Aerial image segmentation repository
 This is the repository of our project: Aerial image segmentation.
+
+Current models are the reproduction based on:
+1. ![XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)
 ## Dependencies
 ```
 pip install -r requirements.txt
